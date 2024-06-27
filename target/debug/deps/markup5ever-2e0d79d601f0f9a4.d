@@ -1,0 +1,15 @@
+/Users/zurongli/projects/rust/geek-tyr/target/debug/deps/libmarkup5ever-2e0d79d601f0f9a4.rmeta: /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/markup5ever-0.11.0/lib.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/markup5ever-0.11.0/data/mod.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/markup5ever-0.11.0/interface/mod.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/markup5ever-0.11.0/interface/tree_builder.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/markup5ever-0.11.0/serialize.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/markup5ever-0.11.0/util/buffer_queue.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/markup5ever-0.11.0/util/smallcharset.rs /Users/zurongli/projects/rust/geek-tyr/target/debug/build/markup5ever-f666537171aa2032/out/generated.rs /Users/zurongli/projects/rust/geek-tyr/target/debug/build/markup5ever-f666537171aa2032/out/named_entities.rs
+
+/Users/zurongli/projects/rust/geek-tyr/target/debug/deps/markup5ever-2e0d79d601f0f9a4.d: /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/markup5ever-0.11.0/lib.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/markup5ever-0.11.0/data/mod.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/markup5ever-0.11.0/interface/mod.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/markup5ever-0.11.0/interface/tree_builder.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/markup5ever-0.11.0/serialize.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/markup5ever-0.11.0/util/buffer_queue.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/markup5ever-0.11.0/util/smallcharset.rs /Users/zurongli/projects/rust/geek-tyr/target/debug/build/markup5ever-f666537171aa2032/out/generated.rs /Users/zurongli/projects/rust/geek-tyr/target/debug/build/markup5ever-f666537171aa2032/out/named_entities.rs
+
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/markup5ever-0.11.0/lib.rs:
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/markup5ever-0.11.0/data/mod.rs:
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/markup5ever-0.11.0/interface/mod.rs:
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/markup5ever-0.11.0/interface/tree_builder.rs:
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/markup5ever-0.11.0/serialize.rs:
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/markup5ever-0.11.0/util/buffer_queue.rs:
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/markup5ever-0.11.0/util/smallcharset.rs:
+/Users/zurongli/projects/rust/geek-tyr/target/debug/build/markup5ever-f666537171aa2032/out/generated.rs:
+/Users/zurongli/projects/rust/geek-tyr/target/debug/build/markup5ever-f666537171aa2032/out/named_entities.rs:
+
+# env-dep:OUT_DIR=/Users/zurongli/projects/rust/geek-tyr/target/debug/build/markup5ever-f666537171aa2032/out
