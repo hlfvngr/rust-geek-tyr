@@ -1,0 +1,13 @@
+/Users/zurongli/projects/rust/geek-tyr/target/debug/deps/libtracing-f3501ac3816ba09d.rmeta: /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/lib.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/macros.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/dispatcher.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/field.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/instrument.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/level_filters.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/span.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/stdlib.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/subscriber.rs
+
+/Users/zurongli/projects/rust/geek-tyr/target/debug/deps/tracing-f3501ac3816ba09d.d: /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/lib.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/macros.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/dispatcher.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/field.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/instrument.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/level_filters.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/span.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/stdlib.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/subscriber.rs
+
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/lib.rs:
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/macros.rs:
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/dispatcher.rs:
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/field.rs:
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/instrument.rs:
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/level_filters.rs:
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/span.rs:
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/stdlib.rs:
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tracing-0.1.40/src/subscriber.rs:

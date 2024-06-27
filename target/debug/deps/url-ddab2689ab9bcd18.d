@@ -1,0 +1,13 @@
+/Users/zurongli/projects/rust/geek-tyr/target/debug/deps/liburl-ddab2689ab9bcd18.rmeta: /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/lib.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/host.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/origin.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/parser.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/path_segments.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/slicing.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/quirks.rs
+
+/Users/zurongli/projects/rust/geek-tyr/target/debug/deps/liburl-ddab2689ab9bcd18.rlib: /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/lib.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/host.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/origin.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/parser.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/path_segments.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/slicing.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/quirks.rs
+
+/Users/zurongli/projects/rust/geek-tyr/target/debug/deps/url-ddab2689ab9bcd18.d: /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/lib.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/host.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/origin.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/parser.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/path_segments.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/slicing.rs /Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/quirks.rs
+
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/lib.rs:
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/host.rs:
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/origin.rs:
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/parser.rs:
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/path_segments.rs:
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/slicing.rs:
+/Users/zurongli/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/url-2.5.2/src/quirks.rs:
